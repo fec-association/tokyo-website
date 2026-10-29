@@ -1,5 +1,7 @@
 # tokyo-website
 
+このリポジトリ（tokyo.fec.or.jp）は使用しない。特定商取引法に基づく表記ページは fec.or.jp 配下（https://fec.or.jp/tokushoho/tokyo/2026/）に移動した。以下は移動前の構成の記録である。
+
 フロントエンドカンファレンス東京の特定商取引法に基づく表記ページ（GitHub Pages、カスタムドメイン tokyo.fec.or.jp）。販売事業者は一般社団法人フロントエンドカンファレンスアソシエーション。
 
 ## 構成
